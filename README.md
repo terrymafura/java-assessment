@@ -4,7 +4,7 @@ Java (SpringBoot) Coding Assessment
 Project Overview
 ----------------
 
-An imaginary company called MyWork Holdings Limited in in need of a salaries management system. Currently, they are recording everything on CSV files and Excel sheets. There is need for a system to handle salaries for their 13 employees.
+An imaginary company called MyWork Holdings Limited is in need of a salaries management system. Currently, they are recording everything on CSV files and Excel sheets. There is need for a system to handle salaries for their employees.
 
 Your Tasks
 ----------
