@@ -57,7 +57,7 @@ Getting Started
 ### Clone the project to your local machine
 
 You are probably reading this on GitHub already.  If not, you can find the
-project [on GitHub](https://www.github.com/wyndhamjade/interview-test-java).
+project [on GitHub](https://github.com/maffsojah/java-assessment).
 
 To begin work on the project, start by cloning the repository to your local
 machine.  Do your work locally, committing your changes to your local git
